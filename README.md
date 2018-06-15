@@ -2,4 +2,4 @@
 
 Hello!
 
-Nothjing new - just testing.
+Nothing new - just testing.
